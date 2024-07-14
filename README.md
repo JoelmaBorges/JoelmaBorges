@@ -1,6 +1,6 @@
 # academy-template-readme-profile
 
-# Oi, me chamo [Joelma Borges] 👋
+# Oi, me chamo Joelma Borges 👋
 
 ### Sobre mim
 
